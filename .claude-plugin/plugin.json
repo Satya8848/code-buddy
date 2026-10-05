@@ -1,0 +1,23 @@
+{
+  "name": "code-buddy",
+  "version": "1.0.0",
+  "description": "Your friendly helper for Frappe/ERPNext projects: code review, security and performance audits, upgrade checks (v14-v16), app restructuring, plus server review and architecture planning. Works with your team's own standards.",
+  "author": {
+    "name": "Satyabrata Panda",
+    "url": "https://github.com/Satya8848"
+  },
+  "homepage": "https://github.com/Satya8848/code-buddy",
+  "repository": "https://github.com/Satya8848/code-buddy",
+  "license": "MIT",
+  "keywords": [
+    "code-review",
+    "frappe",
+    "erpnext",
+    "refactoring",
+    "security",
+    "performance",
+    "devops",
+    "server",
+    "architecture"
+  ]
+}

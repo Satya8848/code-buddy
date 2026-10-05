@@ -1,0 +1,17 @@
+{
+  "name": "code-buddy",
+  "owner": {
+    "name": "Satyabrata Panda"
+  },
+  "metadata": {
+    "description": "Code Buddy: friendly code review, audits, upgrade checks and server planning for Frappe/ERPNext projects."
+  },
+  "plugins": [
+    {
+      "name": "code-buddy",
+      "source": "./",
+      "description": "Code review, audits, upgrade checks, restructuring and server planning for Frappe/ERPNext projects.",
+      "version": "1.0.0"
+    }
+  ]
+}
